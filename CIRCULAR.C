@@ -130,4 +130,5 @@ void display(NODE head)
 		printf("%d=>",temp->data);
 		printf("%d", temp->data);
 	}
+
 }
