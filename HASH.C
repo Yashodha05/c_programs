@@ -17,3 +17,4 @@ void main(){
 		printf("%d", a2[i]);
 		getch();
 }
+
