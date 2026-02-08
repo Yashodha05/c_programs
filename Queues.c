@@ -1,4 +1,4 @@
-//1b. implement queues using arrays
+// implement queues using arrays
 
 #include <stdio.h>
 #include <conio.h>
