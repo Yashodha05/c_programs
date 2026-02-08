@@ -1,4 +1,4 @@
-//5.circular linked list
+//circular linked list
 
 #include<stdio.h>
 #include<conio.h>
@@ -134,4 +134,5 @@ void display(NODE head)
 	}
 
 }
+
 
