@@ -1,3 +1,5 @@
+//1a. Implement stacks using Arrays
+
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -65,3 +67,4 @@ int display(int top){
 	printf("%d=>",stack[i]);
 	}
 }
+
